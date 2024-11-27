@@ -1,0 +1,16 @@
+Section for TreeFolio information to be added by Cornell Tech leveraging LiDAR data information and transforming the point clouds into insights on shading. @SustainaCities collaborator @SarangPramode and the website for more details.
+TreeFolio
+https://news.cornell.edu/stories/2023/08/throwing-shade-model-maps-nyc-street-trees-cooling-benefits
+
+
+Create digital simulation of each street tree in New York City using LiDAR and assess its local shading impact, providing data to study the distribution of street tree benefits and inform more equitable and effective tree planting strategies to reduce urban heat islands
+
+Plot of G,MRV,SRV,SRNV.png
+GroundPlaneClassified_Res7m.png
+Shadow Projection , Az(360),Amp(180) , 10degree split.png
+Tree + Treeshade + Shade_Hull + BF_affected.png
+Shading Points Classified.png
+
+Links: 
+Sarang: https://github.com/Sarang-Pramode/
+
